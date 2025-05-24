@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\RAHAT\\Advanced .NET\\MyAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A64F7332-882D-4F72-990C-F9627EFDE552}|MyAPI.csproj|E:\\RAHAT\\Advanced .NET\\MyAPI\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64F7332-882D-4F72-990C-F9627EFDE552}|MyAPI.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A64F7332-882D-4F72-990C-F9627EFDE552}|MyAPI.csproj|e:\\rahat\\advanced .net\\myapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64F7332-882D-4F72-990C-F9627EFDE552}|MyAPI.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A64F7332-882D-4F72-990C-F9627EFDE552}|MyAPI.csproj|e:\\rahat\\advanced .net\\myapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64F7332-882D-4F72-990C-F9627EFDE552}|MyAPI.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A64F7332-882D-4F72-990C-F9627EFDE552}|MyAPI.csproj|e:\\rahat\\advanced .net\\myapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64F7332-882D-4F72-990C-F9627EFDE552}|MyAPI.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A64F7332-882D-4F72-990C-F9627EFDE552}|MyAPI.csproj|e:\\rahat\\advanced .net\\myapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64F7332-882D-4F72-990C-F9627EFDE552}|MyAPI.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A64F7332-882D-4F72-990C-F9627EFDE552}|MyAPI.csproj|e:\\rahat\\advanced .net\\myapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64F7332-882D-4F72-990C-F9627EFDE552}|MyAPI.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A64F7332-882D-4F72-990C-F9627EFDE552}|MyAPI.csproj|e:\\rahat\\advanced .net\\myapi\\ef\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64F7332-882D-4F72-990C-F9627EFDE552}|MyAPI.csproj|solutionrelative:ef\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A64F7332-882D-4F72-990C-F9627EFDE552}|MyAPI.csproj|E:\\RAHAT\\Advanced .NET\\MyAPI\\ef\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64F7332-882D-4F72-990C-F9627EFDE552}|MyAPI.csproj|solutionrelative:ef\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A64F7332-882D-4F72-990C-F9627EFDE552}|MyAPI.csproj|E:\\RAHAT\\Advanced .NET\\MyAPI\\ef\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64F7332-882D-4F72-990C-F9627EFDE552}|MyAPI.csproj|solutionrelative:ef\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A64F7332-882D-4F72-990C-F9627EFDE552}|MyAPI.csproj|E:\\RAHAT\\Advanced .NET\\MyAPI\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64F7332-882D-4F72-990C-F9627EFDE552}|MyAPI.csproj|solutionrelative:app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A64F7332-882D-4F72-990C-F9627EFDE552}|MyAPI.csproj|e:\\rahat\\advanced .net\\myapi\\ef\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64F7332-882D-4F72-990C-F9627EFDE552}|MyAPI.csproj|solutionrelative:ef\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A64F7332-882D-4F72-990C-F9627EFDE552}|MyAPI.csproj|E:\\RAHAT\\Advanced .NET\\MyAPI\\ef\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64F7332-882D-4F72-990C-F9627EFDE552}|MyAPI.csproj|solutionrelative:ef\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A64F7332-882D-4F72-990C-F9627EFDE552}|MyAPI.csproj|E:\\RAHAT\\Advanced .NET\\MyAPI\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A64F7332-882D-4F72-990C-F9627EFDE552}|MyAPI.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A64F7332-882D-4F72-990C-F9627EFDE552}|MyAPI.csproj|E:\\RAHAT\\Advanced .NET\\MyAPI\\ef\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64F7332-882D-4F72-990C-F9627EFDE552}|MyAPI.csproj|solutionrelative:ef\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\RAHAT\\Advanced .NET\\MyAPI\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "E:\\RAHAT\\Advanced .NET\\MyAPI\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T07:59:25.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\RAHAT\\Advanced .NET\\MyAPI\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "E:\\RAHAT\\Advanced .NET\\MyAPI\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T19:11:20.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\RAHAT\\Advanced .NET\\MyAPI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\RAHAT\\Advanced .NET\\MyAPI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T19:13:43.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "E:\\RAHAT\\Advanced .NET\\MyAPI\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "E:\\RAHAT\\Advanced .NET\\MyAPI\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T07:55:54.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\RAHAT\\Advanced .NET\\MyAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\RAHAT\\Advanced .NET\\MyAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T07:35:27.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\RAHAT\\Advanced .NET\\MyAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "E:\\RAHAT\\Advanced .NET\\MyAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T07:28:07.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\RAHAT\\Advanced .NET\\MyAPI\\EF\\Category.cs",
+              "RelativeDocumentMoniker": "EF\\Category.cs",
+              "ToolTip": "E:\\RAHAT\\Advanced .NET\\MyAPI\\EF\\Category.cs",
+              "RelativeToolTip": "EF\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T19:23:29.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\RAHAT\\Advanced .NET\\MyAPI\\EF\\Customer.cs",
+              "RelativeDocumentMoniker": "EF\\Customer.cs",
+              "ToolTip": "E:\\RAHAT\\Advanced .NET\\MyAPI\\EF\\Customer.cs",
+              "RelativeToolTip": "EF\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T19:23:35.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\RAHAT\\Advanced .NET\\MyAPI\\EF\\Employee.cs",
+              "RelativeDocumentMoniker": "EF\\Employee.cs",
+              "ToolTip": "E:\\RAHAT\\Advanced .NET\\MyAPI\\EF\\Employee.cs",
+              "RelativeToolTip": "EF\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T19:23:38.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\RAHAT\\Advanced .NET\\MyAPI\\EF\\Login.cs",
+              "RelativeDocumentMoniker": "EF\\Login.cs",
+              "ToolTip": "E:\\RAHAT\\Advanced .NET\\MyAPI\\EF\\Login.cs",
+              "RelativeToolTip": "EF\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T07:59:59.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "E:\\RAHAT\\Advanced .NET\\MyAPI\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\WebApiConfig.cs",
+              "ToolTip": "E:\\RAHAT\\Advanced .NET\\MyAPI\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T19:05:29.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "E:\\RAHAT\\Advanced .NET\\MyAPI\\EF\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "EF\\Model1.Context.cs",
+              "ToolTip": "E:\\RAHAT\\Advanced .NET\\MyAPI\\EF\\Model1.Context.cs",
+              "RelativeToolTip": "EF\\Model1.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T19:23:44.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\RAHAT\\Advanced .NET\\MyAPI\\EF\\Product.cs",
+              "RelativeDocumentMoniker": "EF\\Product.cs",
+              "ToolTip": "E:\\RAHAT\\Advanced .NET\\MyAPI\\EF\\Product.cs",
+              "RelativeToolTip": "EF\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T07:23:07.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\RAHAT\\Advanced .NET\\MyAPI\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "E:\\RAHAT\\Advanced .NET\\MyAPI\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-23T19:05:37.045Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
